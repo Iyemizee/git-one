@@ -1,0 +1,5 @@
+</head>
+<body>
+    <!-- prints random choice to html code -->
+    <h1>I Love</h1>
+    <button>Click Me!</button>
