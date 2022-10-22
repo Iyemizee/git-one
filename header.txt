@@ -3,5 +3,7 @@
     <!-- prints random choice to html code -->
     <h1>I Love</h1>
     <button>Click Me!</button>
+	margin: 20px;
 
 <h1>Gone</h1>
+
